@@ -1,4 +1,6 @@
 section {
     margin: 40px 0;
-    
+}
+h2, footer {
+    font-style: italic;
 }
