@@ -4,3 +4,6 @@ section {
 h2, footer {
     font-style: italic;
 }
+footer {
+    color: red;
+}
